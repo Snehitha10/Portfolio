@@ -18,4 +18,4 @@ This is my personal [portfolio website](https://snehitha10.github.io/Portfolio/)
 2. CSS
 3. JS
 
-You can have a look at my personal portfolio website at https://snehitha10.github.io/Portfolio/ .
+You can have a look at my personal portfolio website using the link- https://snehitha10.github.io/Portfolio/ .
